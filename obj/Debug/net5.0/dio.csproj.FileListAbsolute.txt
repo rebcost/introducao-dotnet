@@ -1,0 +1,16 @@
+C:\workspace\introducao-dotnet\dio\bin\Debug\net5.0\dio.exe
+C:\workspace\introducao-dotnet\dio\bin\Debug\net5.0\dio.deps.json
+C:\workspace\introducao-dotnet\dio\bin\Debug\net5.0\dio.runtimeconfig.json
+C:\workspace\introducao-dotnet\dio\bin\Debug\net5.0\dio.runtimeconfig.dev.json
+C:\workspace\introducao-dotnet\dio\bin\Debug\net5.0\dio.dll
+C:\workspace\introducao-dotnet\dio\bin\Debug\net5.0\ref\dio.dll
+C:\workspace\introducao-dotnet\dio\bin\Debug\net5.0\dio.pdb
+C:\workspace\introducao-dotnet\dio\obj\Debug\net5.0\dio.csproj.AssemblyReference.cache
+C:\workspace\introducao-dotnet\dio\obj\Debug\net5.0\dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\introducao-dotnet\dio\obj\Debug\net5.0\dio.AssemblyInfoInputs.cache
+C:\workspace\introducao-dotnet\dio\obj\Debug\net5.0\dio.AssemblyInfo.cs
+C:\workspace\introducao-dotnet\dio\obj\Debug\net5.0\dio.csproj.CoreCompileInputs.cache
+C:\workspace\introducao-dotnet\dio\obj\Debug\net5.0\dio.dll
+C:\workspace\introducao-dotnet\dio\obj\Debug\net5.0\ref\dio.dll
+C:\workspace\introducao-dotnet\dio\obj\Debug\net5.0\dio.pdb
+C:\workspace\introducao-dotnet\dio\obj\Debug\net5.0\dio.genruntimeconfig.cache
